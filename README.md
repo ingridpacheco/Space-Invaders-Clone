@@ -1,7 +1,12 @@
-Space Invaders Clone in C using Allegro 5.0.10.
+# Space Invaders Clone in C using Allegro 5.0.10.
 
 University project. UFRJ, Brazil. 2015-1.
- 
+
+Students:
+- George Rappel
+- Ingrid Pacheco
+
+How to run: 
 - Download Allegro 5.0.10: http://cdn.allegro.cc/file/library/allegro/5.0.10/allegro-5.0.10.tar.gz
 - Install Allegro 5 library in Ubuntu: https://wiki.allegro.cc/index.php?title=Ubuntu_and_Allegro_5
 - Clone this rep.
